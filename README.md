@@ -1,1 +1,0 @@
-# qinyj-astro.github.io
