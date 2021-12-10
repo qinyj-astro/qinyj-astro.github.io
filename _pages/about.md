@@ -13,7 +13,3 @@ My name is Yu-Jing Qin. I am an astrophysicist. I study supernova explosions –
 You may find my papers at [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/n0vGfGgtTjaQGr4j8Teo-g) and [ORCID](https://orcid.org/0000-0003-3658-6026).
 
 My curriculum vitae is available [here](files/CV.pdf).
-
-
-
-
